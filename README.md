@@ -2,7 +2,7 @@
 
 <br/> ![Fabricio GitHub status](https://github-readme-stats.vercel.app/api?username=fabriciocamara&show_icons=true&theme=dracula)
 
-[![Top Langes](https://github-status.vercel.app/api/top-langs/?username=fabriciocamara)](https://github.com/fabriciocamara/github-readme-stats)
+![Top Langes](https://github-status.vercel.app/api/top-langs/?username=fabriciocamara&layout=compact&langs_count=16&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia
 
